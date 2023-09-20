@@ -19,13 +19,11 @@
 ![CSS](https://img.shields.io/badge/-CSS-000000?style=flat&logo=css3)
 ![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=mysql)
 ![Spring](https://img.shields.io/badge/-Spring-000000?style=flat&logo=spring)
-
 ---
 ### 🛢 DB Knowledge  
 ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
 ![Redis](https://img.shields.io/badge/-Redis-333333?style=flat&logo=Redis)
-
 ---
 ### 🔧 My Tools
 #### Development
@@ -36,10 +34,8 @@
 ![PyCharm](https://img.shields.io/badge/-PyCharm-333333?style=flat&logo=PyCharm)
 ![WebStorm](https://img.shields.io/badge/-WebStorm-333333?style=flat&logo=WebStorm)
 ![VS Code](https://img.shields.io/badge/-Visual_Studio_Code-333333?style=flat&logo=visual%20studio%20code)
-
 #### Design
 ![PhotoShop](https://aleen42.github.io/badges/src/photoshop.svg?style=flat)
 ![AI](https://aleen42.github.io/badges/src/illustrator.svg)
-
 ---
 ### 🌐 Computer Network Stuff
