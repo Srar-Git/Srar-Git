@@ -26,6 +26,7 @@
 ![Redis](https://img.shields.io/badge/-Redis-333333?style=flat&logo=Redis)
 
 ## 🔧 My Tools
+### Development
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
@@ -34,6 +35,8 @@
 ![WebStorm](https://img.shields.io/badge/-WebStorm-333333?style=flat&logo=WebStorm)
 ![VS Code](https://img.shields.io/badge/-Visual_Studio_Code-333333?style=flat&logo=visual%20studio%20code)
 
+### Design
+![PhotoShop](https://aleen42.github.io/badges/src/photoshop.svg)https://aleen42.github.io/badges/src/photoshop.svg)
 
 
 
