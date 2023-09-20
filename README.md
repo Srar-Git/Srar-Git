@@ -7,7 +7,7 @@
 ### I'm Yufan Peng
 
 - A Student.
-- 💬 Ask me about Java, TypeScript and my projects on [buptanlan@gmail.com](buptanlan@gmail.com)
+- 💬 Communicate Java, Python, Spring stuff, vue stuff and my projects with me on [buptanlan@gmail.com](buptanlan@gmail.com)
 
 ### 🛠 技术栈 | Tech Stack
 
