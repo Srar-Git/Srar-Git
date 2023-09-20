@@ -36,7 +36,7 @@
 ![VS Code](https://img.shields.io/badge/-Visual_Studio_Code-333333?style=flat&logo=visual%20studio%20code)
 
 ### Design
-![PhotoShop](https://aleen42.github.io/badges/src/photoshop.svg)https://aleen42.github.io/badges/src/photoshop.svg)
+![PhotoShop](https://aleen42.github.io/badges/src/photoshop.svg?style=flat)
 
 
 
