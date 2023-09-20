@@ -29,7 +29,7 @@
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
-![IntelliJ_IDEA]([https://img.shields.io/badge/-IntelliJ_IDEA-333333?style=flat&logo=IntelliJ_IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white))
+![IntelliJ_IDEA](https://img.shields.io/badge/-IntelliJ_IDEA-333333?style=flat&logo=IntelliJ_IDEA)
 
 
 
