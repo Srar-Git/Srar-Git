@@ -2,7 +2,7 @@
 [![我的QQ](https://img.shields.io/badge/webkettle交流群-1214090013-red.svg "QQ联系")](https://jq.qq.com/?_wv=1027&k=55kiWBY "1214090013")
 [![Mail Badge](https://img.shields.io/badge/-buptanlan@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:buptanlan@gmail.com)](mailto:buptanlan@gmail.com)
 ---
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/JoeyBling/JoeyBling/master/pic/pusheencode.gif" />
+<img align="right" src="./img/65151826.png" />
 
 ### I'm Yufan Peng
 
