@@ -18,7 +18,7 @@
 ![Vue.js](https://img.shields.io/badge/-VueJS-333333?style=flat&logo=Vue.js)
 ![CSS](https://img.shields.io/badge/-CSS-000000?style=flat&logo=css3)
 ![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=mysql)
-![P4](https://img.shields.io/badge/-P4-000000?style=flat&logo=P4)
+![Spring](https://img.shields.io/badge/-Spring-000000?style=flat&logo=spring)
 
 - 🌐 &#160; ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
 
