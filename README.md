@@ -1,14 +1,14 @@
-[![PixelWar交流群](https://img.shields.io/badge/PixelWar交流群-422625065-red.svg "PixelWar交流群")](https://jq.qq.com/?_wv=1027&k=58Ypj9z "PixelWar交流群")
-[![我的QQ](https://img.shields.io/badge/webkettle交流群-487063343-red.svg "webkettle交流群")](https://jq.qq.com/?_wv=1027&k=55kiWBY "1214090013")
-[![Mail Badge](https://img.shields.io/badge/-1214090013@qq.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:1214090013@qq.com)](mailto:1214090013@qq.com)
+[![PixelWar交流群](https://img.shields.io/badge/PixelWar交流群-286599670-red.svg "PixelWar交流群")](https://jq.qq.com/?_wv=1027&k=58Ypj9z "PixelWar交流群")
+[![我的QQ](https://img.shields.io/badge/webkettle交流群-1214090013-red.svg "webkettle交流群")](https://jq.qq.com/?_wv=1027&k=55kiWBY "1214090013")
+[![Mail Badge](https://img.shields.io/badge/-buptanlan@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:buptanlan@gmail.com)](mailto:buptanlan@gmail.com)
 ---
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/JoeyBling/JoeyBling/master/pic/pusheencode.gif" />
 
-### I'm Siwei Zhou
+### I'm Yufan Peng
 
 - A Computer Engineering Undergraduate Student. & Open Source enthusiast.
 - 🌱 Currently working in Hangzhou, China.
-- 💬 Ask me about Java, TypeScript and my projects on [1214090013@qq.com](mailto:1214090013@qq.com)
+- 💬 Ask me about Java, TypeScript and my projects on [buptanlan@gmail.com](buptanlan@gmail.com)
 - ⭐ You may like [webkettle](https://github.com/JoeyBling/webkettle) 、[hexo-theme-yilia-plus](https://github.com/JoeyBling/hexo-theme-yilia-plus) 、or [bootplus](https://github.com/JoeyBling/bootplus)
 - ⚡ Fun fact: Data Analysis📊
 
