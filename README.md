@@ -1,5 +1,5 @@
 [![PixelWar交流群](https://img.shields.io/badge/PixelWar交流群-286599670-red.svg "PixelWar交流群")](https://jq.qq.com/?_wv=1027&k=58Ypj9z "PixelWar交流群")
-[![我的QQ](https://img.shields.io/badge/webkettle交流群-1214090013-red.svg "QQ联系")](https://jq.qq.com/?_wv=1027&k=55kiWBY "1214090013")
+[![我的QQ](https://img.shields.io/badge/QQ联系-1214090013-red.svg "QQ联系")](https://jq.qq.com/?_wv=1027&k=55kiWBY "1214090013")
 [![Mail Badge](https://img.shields.io/badge/-buptanlan@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:buptanlan@gmail.com)](mailto:buptanlan@gmail.com)
 ---
 
