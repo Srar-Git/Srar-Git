@@ -11,7 +11,8 @@
 
 ### 🛠 Tech Stack
 
-- 💻 &#160; ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
+#### My Languages💻 &#160;
+![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
 ![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=Linux&logoColor=FCC624)
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
