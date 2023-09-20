@@ -1,7 +1,6 @@
-## 你们好
-[![PixelWar交流群](https://img.shields.io/badge/博客搭建QQ群-422625065-red.svg "博客搭建交流群")](https://jq.qq.com/?_wv=1027&k=58Ypj9z "博客搭建交流群")
-[![我的QQ](https://img.shields.io/badge/webkettle交流群-487063343-red.svg "webkettle交流群")](https://jq.qq.com/?_wv=1027&k=55kiWBY "webkettle交流群")
-[![Mail Badge](https://img.shields.io/badge/-joeysiwei@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:1214090013@qq.com)](mailto:1214090013@qq.com)
+[![PixelWar交流群](https://img.shields.io/badge/PixelWar交流群-422625065-red.svg "PixelWar交流群")](https://jq.qq.com/?_wv=1027&k=58Ypj9z "PixelWar交流群")
+[![我的QQ](https://img.shields.io/badge/webkettle交流群-487063343-red.svg "webkettle交流群")](https://jq.qq.com/?_wv=1027&k=55kiWBY "1214090013")
+[![Mail Badge](https://img.shields.io/badge/-1214090013@qq.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:1214090013@qq.com)](mailto:1214090013@qq.com)
 ---
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/JoeyBling/JoeyBling/master/pic/pusheencode.gif" />
 
