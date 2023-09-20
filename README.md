@@ -37,7 +37,7 @@
 
 ### Design
 ![PhotoShop](https://aleen42.github.io/badges/src/photoshop.svg?style=flat)
-
+![AI](https://aleen42.github.io/badges/src/illustrator.svg)
 
 
 ## 🌐 Computer Network Stuff
