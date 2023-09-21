@@ -40,3 +40,4 @@
 ![AI](https://aleen42.github.io/badges/src/illustrator.svg)
 ---
 ### 🌐 Computer Network Stuff
+![linux](https://img.shields.io/badge/Linux-FCC624.svg?style=flat&logo=Linux&logoColor=white)
