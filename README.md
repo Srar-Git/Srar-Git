@@ -9,7 +9,7 @@
 - A Student.
 - 💬 Communicate Java, Python, Spring stuff, vue stuff and my projects with me on [buptanlan@gmail.com](buptanlan@gmail.com)
 
-### 💻 My Languages
+### 💻 Languages
 ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
@@ -20,12 +20,12 @@
 ![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=mysql)
 ![P4](https://img.shields.io/badge/-P4_Language-000000)
 ---
-### 🛢 DB Knowledge  
+### 🛢 DB 
 ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
 ![Redis](https://img.shields.io/badge/-Redis-333333?style=flat&logo=Redis)
 ---
-### 🔧 My Tools
+### 🔧 Tools & Framework
 #### Development
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
