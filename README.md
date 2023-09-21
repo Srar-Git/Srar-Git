@@ -10,6 +10,7 @@
 - 💬 Communicate Java, Python, Spring stuff, vue stuff and my projects with me on [buptanlan@gmail.com](buptanlan@gmail.com)
 
 ### 💻 Languages
+![](https://github-readme-stats.vercel.app/api?username={AnLan1214090013}&theme=blue-green) ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AnLan1214090013&theme=blue-green)
 ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
@@ -18,7 +19,6 @@
 ![CSS](https://img.shields.io/badge/-CSS-000000?style=flat&logo=css3)
 ![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=mysql)
 ![P4](https://img.shields.io/badge/-P4_Language-000000)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=AnLan1214090013&theme=blue-green)
 ---
 ### 🛢 DB 
 ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
