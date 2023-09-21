@@ -1,5 +1,5 @@
 ![PixelWar交流群](https://img.shields.io/badge/PixelWar交流群-286599670-red.svg "PixelWar交流群")
-![我的QQ](https://img.shields.io/badge/QQ联系-1214090013-red.svg "QQ联系")
+![我的QQ](https://img.shields.io/badge/QQ联系-1214090013-red.svg "QQ联系"?style=for-the-badge&logo=Tencent-QQ)
 [![Mail Badge](https://img.shields.io/badge/-buptanlan@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:buptanlan@gmail.com)](mailto:buptanlan@gmail.com)
 ---
 
