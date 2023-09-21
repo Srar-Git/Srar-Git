@@ -18,6 +18,7 @@
 ![CSS](https://img.shields.io/badge/-CSS-000000?style=flat&logo=css3)
 ![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=mysql)
 ![P4](https://img.shields.io/badge/-P4_Language-000000)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=AnLan1214090013&theme=blue-green)
 ---
 ### 🛢 DB 
 ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
