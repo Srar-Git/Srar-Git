@@ -15,7 +15,6 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
 ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
-![Vue.js](https://img.shields.io/badge/-VueJS-333333?style=flat&logo=Vue.js)
 ![CSS](https://img.shields.io/badge/-CSS-000000?style=flat&logo=css3)
 ![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=mysql)
 ![P4](https://img.shields.io/badge/-P4_Language-000000)
@@ -36,6 +35,7 @@
 ![VS Code](https://img.shields.io/badge/-Visual_Studio_Code-333333?style=flat&logo=visual%20studio%20code)
 ![Spring](https://img.shields.io/badge/-Spring-000000?style=flat&logo=spring)
 ![](https://img.shields.io/badge/SpigotMC-000000.svg?style=flat&logo=SpigotMC)
+![Vue.js](https://img.shields.io/badge/-Vue-333333?style=flat&logo=Vue.js)
 #### Design
 ![PhotoShop](https://aleen42.github.io/badges/src/photoshop.svg?style=flat)
 ![AI](https://aleen42.github.io/badges/src/illustrator.svg)
