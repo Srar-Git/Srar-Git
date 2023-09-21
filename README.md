@@ -45,3 +45,5 @@
 ### 🌐 Computer & Network Stuff
 ![linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=Linux)
 ![shell](https://img.shields.io/badge/-Shell-333333?style=flat&logo=Shell)
+![onos](https://img.shields.io/badge/-ONOS-333333?style=flat&logo=Linux-Containers)
+![](https://img.shields.io/badge/-Docker-333333?style=flat&logo=Docker)
