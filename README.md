@@ -38,7 +38,7 @@
 #### Design
 ![PhotoShop](https://aleen42.github.io/badges/src/photoshop.svg?style=flat)
 ![AI](https://aleen42.github.io/badges/src/illustrator.svg)
-![](https://img.shields.io/badge/Microsoft%20Visio-3955A3.svg?style=for-the-badge&logo=Microsoft-Visio&logoColor=white)
+![](https://img.shields.io/badge/Microsoft%20Visio-3955A3.svg?style=flat&logo=Microsoft-Visio&logoColor=white)
 ---
 ### 🌐 Computer Network Stuff
 ![linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=Linux)
