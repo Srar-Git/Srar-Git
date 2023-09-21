@@ -19,7 +19,7 @@
 ![CSS](https://img.shields.io/badge/-CSS-000000?style=flat&logo=css3)
 ![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=mysql)
 ![Spring](https://img.shields.io/badge/-Spring-000000?style=flat&logo=spring)
-![P4](https://img.shields.io/badge/-P4-Language-000000)
+![P4](https://img.shields.io/badge/-P4_Language-000000)
 ---
 ### 🛢 DB Knowledge  
 ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
