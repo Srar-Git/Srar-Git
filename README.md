@@ -35,6 +35,7 @@
 ![WebStorm](https://img.shields.io/badge/-WebStorm-333333?style=flat&logo=WebStorm)
 ![VS Code](https://img.shields.io/badge/-Visual_Studio_Code-333333?style=flat&logo=visual%20studio%20code)
 ![Spring](https://img.shields.io/badge/-Spring-000000?style=flat&logo=spring)
+![](https://img.shields.io/badge/SpigotMC-000000.svg?style=flat&logo=SpigotMC&logoColor=white)
 #### Design
 ![PhotoShop](https://aleen42.github.io/badges/src/photoshop.svg?style=flat)
 ![AI](https://aleen42.github.io/badges/src/illustrator.svg)
