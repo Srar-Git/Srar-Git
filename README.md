@@ -24,7 +24,7 @@
 ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
 ![Redis](https://img.shields.io/badge/-Redis-333333?style=flat&logo=Redis)
 ---
-### 🔧 Tools & Framework
+### 🔧 Tools & Dev Framework
 #### Development
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
