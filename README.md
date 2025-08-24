@@ -2,10 +2,5 @@
 [![Mail Badge](https://img.shields.io/badge/-buptanlan@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:buptanlan@gmail.com)](mailto:buptanlan@gmail.com)
 ---
 
-
-### I'm Yufan Peng
-
-- A Student.
-- 💬 Communicate Java, Python, Spring stuff, vue stuff and my projects with me on [buptanlan@gmail.com](buptanlan@gmail.com)
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Srar-Git&theme=white-green" />
 
